@@ -1,4 +1,4 @@
-# 
+# exclusive MEV sniper bot | contract-verification + front-running offers the most advanced MEV sniper bot, with contract-verification and front-running. Ideal for professional MEV
 
 
 
